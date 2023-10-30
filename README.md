@@ -7,6 +7,7 @@ This project utilizes Python for Exploratory Data Analysis (EDA) to identify pay
 - Developed data cleansing procedures for higher-quality analysis.
 
 ## Check out my jyupternotebook 
+CREDIT EDA.ipynb
 
 
 Explore the EDA findings and make informed decisions!
