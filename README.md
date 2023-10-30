@@ -1,5 +1,13 @@
-# CREDIT-EDA-CASE-STUDY
+# Credit EDA Case Study
 
-Objective:To identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the amount of the loan, lending (to risky applicants) at a higher interest rate, etc.
-Solution: Performed EDA on the dataset
-Key Achievement: Predicted with EDA whether the client at risk of paying back the loan or not.
+This project utilizes Python for Exploratory Data Analysis (EDA) to identify payment patterns indicating client difficulties. The objective is to enable informed actions such as adjusted loans, modified interest rates, or assessing loan denials.
+
+## Key Achievements:
+- Implemented data validation checks for improved data integrity.
+- Developed data cleansing procedures for higher-quality analysis.
+
+## Check out my jyupternotebook 
+
+
+Explore the EDA findings and make informed decisions!
+
